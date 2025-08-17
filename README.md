@@ -27,7 +27,7 @@ The interface is built with **Gradio**, featuring a modern responsive design, so
 
 Clone this repo:
 ```bash
-git clone https://github.com/your-username/ai-research-search-engine.git
+git clone https://github.com/TayyabUrRehman862/Smart-Search-Engine.git
 cd ai-research-search-engine
 
 
